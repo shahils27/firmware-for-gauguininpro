@@ -108,16 +108,7 @@ Download the tweaked firmware for gauguininpro from the following links:
   Let’s build something awesome together — one project at a time. 🤝
 </h3>
 
-<h2 align="center">#OpenSource #FreelanceDeveloper #GoogleAppsScript #Automation #TechEnthusiast</h2>
-
-<p align="left">
-  <img 
-    src="https://komarev.com/ghpvc/?username=mohamedshahilshajahan&label=Profile%20views&color=blueviolet&style=flat" 
-    alt="mohamedshahilshajahan" 
-    width="200" 
-    height="40" 
-  />
-</p>
+<h2 align="center">#TechEnthusiast</h2>
 
 <img align="right" alt="Coding" width="300" src="https://i.postimg.cc/CL981DpX/DEVELOPER.gif">
 
@@ -126,7 +117,7 @@ Download the tweaked firmware for gauguininpro from the following links:
     <td valign="top">
       <h3 align="left">Connect with me:</h3>
       <p align="left">
-        <a href="https://www.linkedin.com/in/mohamedshahilshajahan" target="_blank" rel="noreferrer">
+        <a href="https://www.linkedin.com/in/shahilshajahan/" target="_blank" rel="noreferrer">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/02ZQ9ft7/linkedin-dark.png" />
             <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/XvKFcFjL/linkedin.png" />
@@ -134,7 +125,7 @@ Download the tweaked firmware for gauguininpro from the following links:
           </picture>
         </a>
         &nbsp;
-        <a href="https://www.github.com/mohamedshahilshajahan" target="_blank" rel="noreferrer">
+        <a href="https://github.com/shahilshajahan" target="_blank" rel="noreferrer">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/Bn6vbKyk/github-dark.png" />
             <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/LsFL1vph/github.png" />
@@ -146,26 +137,36 @@ Download the tweaked firmware for gauguininpro from the following links:
   </tr>
 </table>
 
-<h3 align="left">Support:</h3>
+### 🤝 Support My Open Source Work
+
+I build and maintain free, open-source software to solve real-world problems.
+If you find my projects useful, you can support future development here:
 
 <div align="left" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <a href="https://buymeacoffee.com/mohamedshahilshajahan">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohamedshahilshajahan" />
+  <a href="https://buymeacoffee.com/shahils">
+    <img src="https://i.postimg.cc/SKLqz7BH/kofi.png" height="50" width=auto alt="shahils" />
   </a>
   <a>
-    <img src="https://i.postimg.cc/XJw4pBRg/gpay.png" height="50" width=auto alt="mohamedshahilshajahan" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/shahils" />
   </a>
   <a href="https://paypal.me/MohamedShahil">
     <img src="https://i.postimg.cc/d3WThfdv/paypal.png" height="55" width=auto />
   </a>
 </div>
 
+- ☕ Ko-fi → https://ko-fi.com/shahilshajahan
+- 💛 Buy Me a Coffee → https://buymeacoffee.com/shahils
+- 💙 PayPal → https://paypal.me/MohamedShahil
+
+Your support helps me dedicate more time to developing and maintaining open-source projects. Thank you! ❤️
+
 <div align="left" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <a href="https://buymeacoffee.com/mohamedshahilshajahan">
-    <img src="https://i.postimg.cc/xj76pphB/bmc-qr.png" height="210" width=auto alt="mohamedshahilshajahan" />
+  <a href="https://buymeacoffee.com/shahils">
+    <img src="https://i.postimg.cc/SQdPYtnh/UPI.png" height=auto width="270" alt="shahils" />
   </a>
+ <br>
   <a>
-    <img src="https://i.postimg.cc/5NrjCLHB/BHIM-QR.png" height="215" width=auto />
+    <img src="https://i.postimg.cc/wMrCJkh5/phonepe.png" height="290" width=auto />
   </a>
 </div>
 
