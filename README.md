@@ -57,7 +57,6 @@
 <p>
 Download the tweaked firmware for gauguininpro from the following links:
 
-* [Mediafire](https://www.mediafire.com/file/qd6gohdh17skvfy/firmware.zip/file)
 * [GDrive](https://drive.google.com/file/d/1mb8QdpCQxMlF8zmnSSe7wgePzBRxqUM9/view?usp=sharing)
 * [Dropbox](https://www.dropbox.com/scl/fi/cm2uvxlyqohlzwrin3kcj/firmware.zip?rlkey=l8vcgjdmb10ob113jxm3becaa&dl=0)
 </p>
@@ -90,7 +89,7 @@ Download the tweaked firmware for gauguininpro from the following links:
 </p>
 <h2></h2>
 <br>
-<h2>About me:</h2> <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&pause=1000&color=F7CB00&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Shahil+S" alt="Typing SVG" /></a></h1>
+<h2>About me:</h2> <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dubai&size=22&pause=1000&color=00F7D3&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Shahil+Shajahan" alt="Typing SVG" /></a></h1>
 
  <h3 align="center">🚀 Open-Source & Freelance Developer | Turning Ideas into Tools</h3>
 
